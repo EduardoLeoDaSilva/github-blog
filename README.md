@@ -1,8 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## About
 
-This is next.js challenge, where I had to develop a next.js app based on a figma prototype, on this project I used server/static rendering, and some next functionalities.
+This is a project that I developed for studying purposes, where I did a simple integration with the github api, and worked with different react functionalities.
 
 ## Getting Started
 
